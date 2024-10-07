@@ -1,0 +1,8 @@
+SessionID,Sender,Email_Title,Email_Body,Status,TicketID,TicketCategory,Severity,Channel
+1,julian.kee@ibm.com,Cant access account,"I cannot access my account. I think I forgot my password, can you help me to reset it? I can't remember my account number.",Active,10311,,,Email
+2,jonathan.soong@ibm.com,Cannot connect to internet,I cannot connect to the internet. Help,Closed,,,,Email
+3,emily.hui@ibm.com,Incorrect bill amount,Not being charged correctly,Active,,,,Phone
+4,iqmal.isyrad@ibm.com,Wrong bill amount,I am not being charged the right amount,Active,,,,Email
+5,vincent.hew@ibm.com,Request for upgrade,I want to upgrade my plan,Active,,,,Email
+6,muz@ibm.com,Complaint,I hate your service,Active,,,,Email
+7,john@ibm.com,Test,Test,Active,,,,Email

@@ -1,0 +1,35 @@
+<style>
+    body, html {
+        margin: 0;
+        padding: 0;
+    }
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #4682B4;
+        padding: 10px;
+        width: 100%
+        position: absolute;
+        left: 0px;
+        top: 0px;
+    }
+    .navbar img.logo {
+        height: 50px;
+    }
+    .navbar img.profile {
+        border-radius: 50%;
+        height: 40px;
+        width: 40px;
+    }
+    .navbar .profile-container {
+        display: flex;
+        align-items: center;
+        border-right: 10px;
+    }
+    .navbar .profile-container .welcome-text {
+        color: white;
+        font-size: 20px;
+        border-right: 100px;
+    }
+    </style>
